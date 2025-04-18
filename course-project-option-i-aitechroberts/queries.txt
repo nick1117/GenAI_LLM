@@ -1,0 +1,5 @@
+English:
+YOLO11s achieved the best balance of precision and computational efficiency for real-time brain tumor detection. It had a mAP@50 of 0.95, mAP@50-95 of 0.65, and a processing speed of 34.16 frames per second. This makes it suitable for integration into surgical workflows.
+
+Spanish:
+Dime cuál es la mejor opción de modelo de visión para detectar tumores y realizar cirugía oncológica de precisión en tiempo real.
